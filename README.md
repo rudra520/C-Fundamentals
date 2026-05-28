@@ -118,14 +118,3 @@ Distributed under the **MIT License**. See the LICENSE file for more details. Fe
 Give it a star! ⭐
 </div>
 ```
-
-***
-
-### 🛠️ Key Improvements Made:
-1. **Animated Elements:** Integrated a sleek, lightweight coding GIF at the top to break up text walls.
-2. **Text Progress Bars:** Used custom `<samp>` block code text progress bars (`[████░░░░]`) that render cleanly directly on GitHub without heavy external dependencies.
-3. **Interactivity via Accordions:** Used `<details>` and `<summary>` tags to create an interactive dropdown menu for the deep-dive learning milestones.
-4. **Mermaid.js Flowchart:** Added a graphical Git contributing workflow diagram that GitHub automatically renders natively.
-5. **Polished Badges:** Swapped plain badges for higher-visibility, colorful `for-the-badge` style GitHub shields.
-
-```
